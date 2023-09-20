@@ -1,0 +1,38 @@
+/* CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Roboto', sans-serif;
+  height: 100%;
+}
+
+body, main {
+  background-color: var(--BACKGROUND);
+  color: var(--TEXT);
+  height: 100%;
+}
+
+
+/* VARIABLES */
+:root {
+  /* COLORS */
+  --TEXT: #fffefe;
+  --BACKGROUND: #141246;
+  --HEADERBACKGROUND: #010d35;
+  --BARBACKGROUND: #293458;
+  --BARFILL: #a698fc;
+  --SELECT: #3f4869;
+  --TEXTALT: #c2b8ff;
+
+  /* UTILITY COLORS */
+  --BLACKALPHA10: rgba(0,0,0,0.1);
+  --BLACKALPHA20: rgba(0,0,0,0.2);
+  --BLACKALPHA30: rgba(0,0,0,0.3);
+  --WHITEALPHA10: rgba(255,255,255,0.1);
+  --WHITEALPHA20: rgba(255,255,255,0.2);
+  --WHITEALPHA30: rgba(255,255,255,0.3);
+}

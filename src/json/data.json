@@ -1,0 +1,51 @@
+{
+    "2022": {
+        "Junio": {
+            "A": {
+                "Capital"   : "1.27",
+                "Cuprum"    : "1.37",
+                "Habitat"   : "1.18",
+                "Modelo"    : "0.92",
+                "Planvital" : "1.27",
+                "Provida"   : "1.45",
+                "Uno"       : "0.85"
+            },
+            "B": {
+                "Capital"   : "1.32",
+                "Cuprum"    : "1.53",
+                "Habitat"   : "1.25",
+                "Modelo"    : "1.05",
+                "Planvital" : "1.46",
+                "Provida"   : "1.54",
+                "Uno"       : "1.08"
+            },
+            "C": {
+                "Capital"   : "0.72",
+                "Cuprum"    : "1.01",
+                "Habitat"   : "0.73",
+                "Modelo"    : "0.58",
+                "Planvital" : "0.95",
+                "Provida"   : "0.93",
+                "Uno"       : "0.53"
+            },
+            "D": {
+                "Capital"   : "0.15",
+                "Cuprum"    : "0.40",
+                "Habitat"   : "0.09",
+                "Modelo"    : "0.06",
+                "Planvital" : "0.42",
+                "Provida"   : "0.38",
+                "Uno"       : "0.17"
+            },
+            "E": {
+                "Capital"   : "0.26",
+                "Cuprum"    : "0.51",
+                "Habitat"   : "0.25",
+                "Modelo"    : "0.25",
+                "Planvital" : "0.38",
+                "Provida"   : "0.48",
+                "Uno"       : "0.20"
+            }
+        }
+    }
+}

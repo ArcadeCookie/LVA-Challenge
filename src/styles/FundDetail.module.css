@@ -1,0 +1,26 @@
+.container {
+    display: grid;
+    grid-template-columns: 3fr 5fr 2fr;
+    cursor: default;
+    height: 10%;
+    place-content: center center;
+}
+
+.name {
+    height: 100%;
+}
+
+.bar_background {
+    background-color: var(--BARBACKGROUND);
+}
+
+.bar_fill {
+    background-color: var(--BARFILL);
+    height: 100%;
+    max-width: 100%;
+    transition: width 0.5s;
+}
+
+.value {
+    text-align: end;
+}
